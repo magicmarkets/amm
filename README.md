@@ -1,6 +1,11 @@
-# Anchor Example: Token Swap AMM
+# Token Swap AMM
 
-SPL [Token-swap](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) (AMM) implemented in Anchor.
+Fork of
+[ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm)
+which itself is a fork of the [Solana SPL token-swap
+program](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
+implemented in [coral-xyz/anchor](https://github.com/coral-xyz/anchor). We're
+using the anchor version as it is easier to reason about.
 
 ## Build, Deploy and Test
 
