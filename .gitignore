@@ -4,3 +4,4 @@ Cargo.lock
 package-lock.json
 .env
 .anchor
+.DS_Store
