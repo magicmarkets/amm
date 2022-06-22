@@ -1,8 +1,8 @@
 [programs.localnet]
-anchor_escrow = "8b5j5Ua8jBDqnCZNB22NJAedd5TBs5NBAjqF65q8BpuS"
+anchor_escrow = "BCewpMyxBDeLsj5SyrCmgvrYoxesbHsGRFtZ5TqX14Z1"
 
 [provider]
-cluster = "https://rpc-mainnet-fork.dappio.xyz"
+cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]

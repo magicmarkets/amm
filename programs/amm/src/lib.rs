@@ -15,7 +15,7 @@ use crate::curve::{
     offset::OffsetCurve, stable::StableCurve,
 };
 
-declare_id!("8b5j5Ua8jBDqnCZNB22NJAedd5TBs5NBAjqF65q8BpuS");
+declare_id!("BCewpMyxBDeLsj5SyrCmgvrYoxesbHsGRFtZ5TqX14Z1");
 
 #[program]
 pub mod amm {
